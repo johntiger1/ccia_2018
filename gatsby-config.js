@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Chinese Canadian Intercultural Association',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }

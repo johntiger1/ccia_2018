@@ -1,0 +1,39 @@
+.scholarship_description {
+	/*font-size: 10em;*/
+
+	/*color: red;*/
+	font-size: 2em;
+	line-height: 1.5em;
+
+
+}
+
+.app_instructions{
+	font-family: monospace;
+}
+
+.avatar {
+  flex: 0 0 96px;
+  width: 96px;
+  height: 96px;
+  margin: 0;
+}
+
+.description {
+  flex: 1;
+  margin-left: 18px;
+  padding: 12px;
+}
+
+.username {
+  margin: 0 0 12px 0;
+  padding: 0;
+}
+
+.excerpt {
+  margin: 0;
+}
+p {
+	/*color: red;*/
+
+}
