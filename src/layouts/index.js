@@ -11,8 +11,7 @@ const Layout = ({ children, data }) => (
       title={data.site.siteMetadata.title}
       meta={[
         { name: 'description', content: 'CCIA website' },
-        { name: 'keywords', content: 'CCIA, Chinese Canadian Intercultural Association, 
-        Non-profit, Community organization' },
+        { name: 'keywords', content: 'CCIA, Chinese Canadian Intercultural Association, Non-profit, Community organization' },
       ]}
     />
     <Header siteTitle={data.site.siteMetadata.title} />
