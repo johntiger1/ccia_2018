@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import styles from "./scholarship.module.css"
 import more_styles from "./random.module.css"
-
+import scholarship_pic from "./scholarship.jpg"
 // import file from "../docs/CCIA Scholarship Application Procedures English.docx"
 
 // import {}
@@ -25,6 +25,11 @@ import "./random.css"
 // a regular formatted file
 const SecondPage = () => (
   <div>
+  
+  <img src={scholarship_pic} alt="2017 Scholarship Ceremony"/> 
+  <p className={styles.scholarship_caption}>   <i> Picture of recepients and honored guests from the 2017 Scholarship Ceremony</i> </p>
+
+
     <h1>Lu Shen Chan Education Scholarship</h1>
 
 <p className={styles.scholarship_description} >
