@@ -79,7 +79,7 @@ Mail or drop off completed package in the mailbox at 112 Huron Street, Toronto, 
 <br/>
 
 
-The application period for this scholarship is June 16th, 2018 to September 2nd, 2018. Please ensure that the application is received by September 2nd. 
+The application period for this scholarship is June 16th, 2019 to September 2nd, 2019. Please ensure that the application is received by September 2nd. 
 
 Questions can be sent to <a href="mailto:ccia.toronto@gmail.com">  ccia.toronto@gmail.com </a>
 
