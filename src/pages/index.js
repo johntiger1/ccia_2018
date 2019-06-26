@@ -13,7 +13,7 @@ const IndexPage = () => (
 
   <div>
     <h1>Welcome to the Chinese Canadian Intercultural Association (CCIA) website!</h1>
-    <p>We are located at 112 Huron Street in Toronto, Ontario. We are offering a set of scholarships for the 2018 Academic Year!
+    <p>We are located at 112 Huron Street in Toronto, Ontario. We are offering a set of scholarships for the 2019 Academic Year!
     	Please see this link for more details!
     </p>
     <Link to="/scholarship/">Link to scholarship application</Link>
