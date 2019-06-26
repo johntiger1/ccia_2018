@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import styles from "./scholarship.module.css"
 import more_styles from "./random.module.css"
-import scholarship_pic from "./scholarship.jpg"
+import scholarship_pic from "../images/scholarship.jpg"
 // import file from "../docs/CCIA Scholarship Application Procedures English.docx"
 
 // import {}
