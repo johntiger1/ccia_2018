@@ -1,13 +1,15 @@
 {
   "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "description": "Gatsby default starter; adapted for ccia",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "John Chen <john.person1@gmail.com>",
   "dependencies": {
+    "@hapi/joi": "^15.1.0",
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-google-analytics": "^1.0.31",
     "gatsby-plugin-react-helmet": "^2.0.11",
+    "package.json": "^2.0.1",
     "react-helmet": "^5.2.0",
     "url-loader": "^1.0.1"
   },
