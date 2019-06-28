@@ -26,8 +26,8 @@ import "./random.css"
 const SecondPage = () => (
   <div>
   
-  <img src={scholarship_pic} alt="2017 Scholarship Ceremony"/> 
-  <p className={styles.scholarship_caption}>   <i> Picture of recepients and honored guests from the 2017 Scholarship Ceremony</i> </p>
+  <img src={scholarship_pic} alt="2018 Scholarship Ceremony"/> 
+  <p className={styles.scholarship_caption}>   <i> Picture of recepients and honored guests from the 2018 Scholarship Ceremony</i> </p>
 
 
     <h1>Lu Shen Chan Education Scholarship</h1>
