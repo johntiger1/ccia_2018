@@ -35,7 +35,7 @@ const SecondPage = () => (
   <p className={styles.scholarship_caption}>   <i> Picture of recepients and honored guests from the 2017 Scholarship Ceremony</i> </p>
 
     <h1>Lu Shen Chan Education Scholarship</h1>
-
+<h2> 2020 UPDATE: due to coronavirus, we have made the difficult decision to pause our scholarship this year. Please take care during this time. </h2>
 <p className={styles.scholarship_description} >
 The Lu Shen Chan Education Scholarship is open to Canadian citizens entering first year university who have at least one grandparent that is Chinese. There are 5 $500 scholarships and applicants will be considered based on academic excellence, financial need, and extracurricular involvement.
 
